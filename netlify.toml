@@ -1,0 +1,3 @@
+# Netlify - site tĩnh, xuất thư mục public/. Không build.
+[build]
+  publish = "public"
